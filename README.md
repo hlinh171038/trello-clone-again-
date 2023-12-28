@@ -1,1 +1,7 @@
-To improve the navigation experience, Next.js automatically code splits your application by route segments. This is different from a traditional React SPA, where the browser loads all your application code on initial load.
+?? Show active link
+- usePathname() 
+    + use client
+    + to show active link to indecated for user what page are currently on.
+
+- usePathname + clsx npm(check if link === current link add some css style)
+    
